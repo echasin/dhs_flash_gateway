@@ -1,0 +1,29 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "lastname",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "maxlength"
+            ],
+            "fieldValidateRulesMaxlength": "50"
+        },
+        {
+            "fieldName": "firstname",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "maxlength"
+            ],
+            "fieldValidateRulesMaxlength": "50"
+        }
+    ],
+    "changelogDate": "20160823015954",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "person",
+    "pagination": "pagination",
+    "microserviceName": "microservice1",
+    "searchEngine": "elasticsearch"
+}

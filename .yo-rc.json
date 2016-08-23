@@ -14,7 +14,7 @@
     "prodDatabaseType": "postgresql",
     "searchEngine": "elasticsearch",
     "buildTool": "maven",
-    "jwtSecretKey": "f3045d64b7a52e29b807d06462dbba66e5194c50",
+    "jwtSecretKey": "5182673d204e4403eb4b1541a5f092de7ded3283",
     "useSass": false,
     "applicationType": "gateway",
     "testFrameworks": [
